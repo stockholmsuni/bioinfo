@@ -1,0 +1,2 @@
+nylist=[]
+for i in 
